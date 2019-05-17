@@ -1,0 +1,29 @@
+24
+De A a B [<Node B>, <Node P>, <Node R>, <Node S>, <Node A>]
+6
+De A a B con Subestimación [<Node B>, <Node P>, <Node R>, <Node S>, <Node A>]
+4
+De C a R [<Node R>, <Node C>]
+2
+De C a R con Subestimación [<Node R>, <Node C>]
+12
+De V a E [<Node E>, <Node H>, <Node U>, <Node V>]
+5
+De V a E con Subestimación [<Node E>, <Node H>, <Node U>, <Node V>]
+45
+De S a N [<Node N>, <Node I>, <Node V>, <Node U>, <Node B>, <Node P>, <Node R>, <Node S>]
+33
+De S a N con Subestimación [<Node N>, <Node I>, <Node V>, <Node U>, <Node B>, <Node P>, <Node R>, <Node S>]
+21
+De D a F [<Node F>, <Node S>, <Node R>, <Node C>, <Node D>]
+13
+De D a F con Subestimación [<Node F>, <Node S>, <Node R>, <Node C>, <Node D>]
+
+
+
+
+Resumen:
+
+Se aprecia que el método con subestimación es mas óptimo ya que para llegar al mismo punto tiene un menor coste. Esto se debe a la heurística que usa el método con subestimación que facilita una información extra que permite deducir por donde se tiene que ir.
+
+El metodo con subestimación es un método de búsqueda informado.Considera no sólo el camino hasta alcanzar un estado sino también las expectativas acerca de lo próximo que está ese estado del estado objetivo, al contrario que el método de informado(sin subestimación)
