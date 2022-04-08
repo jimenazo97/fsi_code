@@ -1,5 +1,5 @@
 # Search methods
-
+#buasss chiquita bomba primo
 import search
 
 ab = search.GPSProblem('A', 'B'
