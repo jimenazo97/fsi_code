@@ -1,5 +1,6 @@
 # Search methods
-
+#iqwdwfjdwlkqlkd
+#jakjwefkjwebj
 import search
 
 ab = search.GPSProblem('A', 'B'
@@ -14,7 +15,7 @@ df=search.GPSProblem('D', 'F'
                        , search.romania)
 #archivo=open("/Users/andresjimenez/Desktop/IA/PycharmProjects/code/salida.txt","a")
 #print(search.breadth_first_graph_search(ab).path())
-#print(search.depth_first_graph_search(ab).path())
+#print(search.depth_first_graph_search(ab).path().hola)
 
 print("De A a B",search.rya_first_graph_search(ab).path())
 print("De A a B con Subestimación",search.rya_sub_first_graph_search(ab).path())
