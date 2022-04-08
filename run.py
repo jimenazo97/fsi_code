@@ -1,6 +1,5 @@
 # Search methods
-#iqwdwfjdwlkqlkd
-#jakjwefkjwebj
+
 import search
 
 ab = search.GPSProblem('A', 'B'
