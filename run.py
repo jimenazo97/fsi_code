@@ -5,6 +5,7 @@ import search
 
 ab = search.GPSProblem('A', 'B'
                        , search.romania)
+#leañadomaslineasporlaprueba1
 cr = search.GPSProblem('C', 'R'
                        , search.romania)
 ve=search.GPSProblem('V', 'E'
