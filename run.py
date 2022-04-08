@@ -1,8 +1,8 @@
 # Search methods
 #buasss chiquita bomba primo
-#vamo s añaidir cosas
+#vamo s añaidir cos
 import search
-
+#andano
 ab = search.GPSProblem('A', 'B'
                        , search.romania)
 #leañadomaslineasporlaprueba1
